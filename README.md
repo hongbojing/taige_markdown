@@ -62,7 +62,7 @@ Taige Markdown
 
 另外, 小编在翻箱倒柜乱点他的GitHub的时候, 发现了一个很有趣的Repo, https://github.com/sindresorhus/ama,  是关于他回答各路粉丝问题的, 有兴趣的同学可以看看。
 
-第二名: ruanyf
+### 第二名: ruanyf
 榜单上的第二名是在国内开发者中非常有名的阮一峰, 大家可以自行在百度或者知乎上搜索他的个人资料, 那么让我们来看看这位开发人员上周的成果吧。
 
 11/06/2016:
@@ -95,20 +95,21 @@ Taige Markdown
 一次提交: 到“webpack-demos” 项目中, https://github.com/ruanyf/webpack-demos, 这个项目中收录了很多webpack的简单demo。
 
 
-第三名: KeranChen
+### 第三名: KeranChen
 
 开发者并未公开近期开发的github数据, 小编暂时就不详细介绍了。
 
-第四名: dalianmao22233
+### 第四名: dalianmao22233
 
 第四名的开发者是一位热衷于分享自己刷题的同学, 他在过去的一个月内几乎每周都有四到五天, 每天都在更新自己的刷题的Repo, https://github.com/dalianmao22233/lintcode,  在此附上链接, 也可以鼓励一下想要一起刷题的小伙伴加入这个行列。
 
-第五名: zichenwang
+### 第五名: zichenwang
 
 这位开发者在过去的两周时间内主要在更新自己的一个叫做“bloc-jams-angular“的项目, https://github.com/zichenwang/bloc-jams-angular, 经过小编的了解, 这个项目应该是一门网上实战项目, 想要了解的同学可以到她的Github Repo 去了解。
 
 另外, 上周进入榜单的25名同学中, 小编还想介绍一下一位上升幅度最大的开发者:
-samli6479
+
+### samli6479
 
 ![samli](taige_image/img/4samli.png)
 
