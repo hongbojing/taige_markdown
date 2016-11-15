@@ -69,17 +69,17 @@ Taige Markdown
 
 ![book](taige_image/img/3book.png)
 
-两次提交: 到[link_name](url)“ECMAScript 6入门”项目中, https://github.com/ruanyf/es6tutorial,  作者自己的介绍是: “《ECMAScript 6入门》是一本开源的JavaScript语言教程, 全面介绍ECMAScript 6新引入的语法特性。”
-一次提交: 到[link_name](url)“jstutorial”项目中, https://github.com/ruanyf/jstutorial, 这是一本开源的js教程书, 主要关注点是客户端的设备方面的开发。
+两次提交: 到[“ECMAScript 6入门”](https://github.com/ruanyf/es6tutorial)项目中,  作者自己的介绍是: “《ECMAScript 6入门》是一本开源的JavaScript语言教程, 全面介绍ECMAScript 6新引入的语法特性。”
+一次提交: 到[“jstutorial”](https://github.com/ruanyf/jstutorial)项目中, 这是一本开源的js教程书, 主要关注点是客户端的设备方面的开发。
 
 11/07/2016:
 
-两次提交: 到[link_name](url)“react-babel-webpack-boilerplate”项目中, https://github.com/ruanyf/react-babel-webpack-boilerplate, 这是一个项目开发模板, 你可以这个模板为基础来开发自己的web应用。
-一次提交: 到[link_name](url)“Flux demo”项目中, https://github.com/ruanyf/extremely-simple-flux-demo,  这个项目的目的是帮助大家学习Flux的结构。
+两次提交: 到[“react-babel-webpack-boilerplate”](https://github.com/ruanyf/react-babel-webpack-boilerplate)项目中, 这是一个项目开发模板, 你可以这个模板为基础来开发自己的web应用。
+一次提交: 到[“Flux demo”](https://github.com/ruanyf/extremely-simple-flux-demo)项目中,  这个项目的目的是帮助大家学习Flux的结构。
 
 11/08/2016:
 
-一次提交: 到[link_name](url)“jstutorial”项目中, https://github.com/ruanyf/jstutorial, 这是一本开源的js教程书, 主要关注点是客户端的设备方面的开发。
+一次提交: 到[“jstutorial”](https://github.com/ruanyf/jstutorial)项目中, 这是一本开源的js教程书, 主要关注点是客户端的设备方面的开发。
 
 
 11/09/2016:
@@ -88,11 +88,11 @@ Taige Markdown
 
 11/10/2016:
 
-一次提交: 到[link_name](url)“jstraining”项目中,  https://github.com/ruanyf/jstraining, 项目本身作为全栈工程师的培训材料, 可以帮助读者掌握全栈开发所需要的基本知识。
+一次提交: 到[“jstraining”](https://github.com/ruanyf/jstraining)项目中, 项目本身作为全栈工程师的培训材料, 可以帮助读者掌握全栈开发所需要的基本知识。
 
 11/11/2016:
 
-一次提交: 到[link_name](url)“webpack-demos” 项目中, https://github.com/ruanyf/webpack-demos, 这个项目中收录了很多webpack的简单demo。
+一次提交: 到[“webpack-demos”](https://github.com/ruanyf/webpack-demos)项目中, 这个项目中收录了很多webpack的简单demo。
 
 
 ### 第三名: KeranChen
@@ -101,11 +101,11 @@ Taige Markdown
 
 ### 第四名: dalianmao22233
 
-第四名的开发者是一位热衷于分享自己刷题的同学, 他在过去的一个月内几乎每周都有四到五天, 每天都在更新自己的[link_name](url)刷题的Repo, https://github.com/dalianmao22233/lintcode,  在此附上链接, 也可以鼓励一下想要一起刷题的小伙伴加入这个行列。
+第四名的开发者是一位热衷于分享自己刷题的同学, 他在过去的一个月内几乎每周都有四到五天, 每天都在更新自己的[刷题的Repo](https://github.com/dalianmao22233/lintcode), 在此附上链接, 也可以鼓励一下想要一起刷题的小伙伴加入这个行列。
 
 ### 第五名: zichenwang
 
-这位开发者在过去的两周时间内主要在更新自己的一个叫做[link_name](url)“bloc-jams-angular“的项目, https://github.com/zichenwang/bloc-jams-angular, 经过小编的了解, 这个项目应该是一门网上实战项目, 想要了解的同学可以到她的Github Repo 去了解。
+这位开发者在过去的两周时间内主要在更新自己的一个叫做[“bloc-jams-angular“](https://github.com/zichenwang/bloc-jams-angular)的项目, 经过小编的了解, 这个项目应该是一门网上实战项目, 想要了解的同学可以到她的Github Repo 去了解。
 
 另外, 上周进入榜单的25名同学中, 小编还想介绍一下一位上升幅度最大的开发者:
 
