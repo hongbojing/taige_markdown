@@ -12,7 +12,7 @@ Taige Markdown
 
 
 ### 第一名: sindresorhus
-![sindresorhus](image_url)
+![sindresorhus](taige_image/img/2sindresorhus.png)
 这是一位常年霸占榜单前三甲的传说级的大牛, 我们可以点开他的Github主页的Organization中, 看到他参与开发了许许多多的前端框架的开发, 那么, 这位大神级别的开发者在过去的一周中参与开发了什么呢:
 
 11/06/2016:
@@ -35,7 +35,7 @@ Taige Markdown
 一次提交: 到“normalize－url”项目中, https://github.com/sindresorhus/normalize-url, 这个项目可以帮助你方便地对url（链接）进行如下操作: 显示／储存／去重／排序／对比。
 一次提交: 到“tab－size－on－github”项目中, https://github.com/sindresorhus/tab-size-on-github,  这是一个chrome的插件应用, 功能是让你在使用tab缩进的时候一次缩进4个字符长度, 而不是八个字符, 使得程序更有可读性。
 
-11/09/2016: 
+11/09/2016:
 
 四次提交: 到“gulp－chmod”项目中, https://github.com/sindresorhus/gulp-chmod,  这是一个与Gulp库相关的, 可以改变文件访问权限的项目。
 三次提交: 到“stringify－object”项目中, https://github.com/yeoman/stringify-object, 这是一个与yeoman相关的项目, 这个项目的目的是进行字符的处理, 例如: 可以对json object进行格式化, 去除里面的双引号。
@@ -64,30 +64,30 @@ Taige Markdown
 第二名: ruanyf
 榜单上的第二名是在国内开发者中非常有名的阮一峰, 大家可以自行在百度或者知乎上搜索他的个人资料, 那么让我们来看看这位开发人员上周的成果吧。
 
-11/06/2016: 
+11/06/2016:
 
 两次提交: 到“ECMAScript 6入门”项目中, https://github.com/ruanyf/es6tutorial,  作者自己的介绍是: “《ECMAScript 6入门》是一本开源的JavaScript语言教程, 全面介绍ECMAScript 6新引入的语法特性。”
 一次提交: 到“jstutorial”项目中, https://github.com/ruanyf/jstutorial, 这是一本开源的js教程书, 主要关注点是客户端的设备方面的开发。
 
-11/07/2016: 
+11/07/2016:
 
 两次提交: 到“react-babel-webpack-boilerplate”项目中, https://github.com/ruanyf/react-babel-webpack-boilerplate, 这是一个项目开发模板, 你可以这个模板为基础来开发自己的web应用。
 一次提交: 到“Flux demo”项目中, https://github.com/ruanyf/extremely-simple-flux-demo,  这个项目的目的是帮助大家学习Flux的结构。
 
-11/08/2016: 
+11/08/2016:
 
 一次提交: 到“jstutorial”项目中, https://github.com/ruanyf/jstutorial, 这是一本开源的js教程书, 主要关注点是客户端的设备方面的开发。
 
 
-11/09/2016: 
+11/09/2016:
 
 同昨天。
 
-11/10/2016: 
+11/10/2016:
 
 一次提交: 到“jstraining”项目中,  https://github.com/ruanyf/jstraining, 项目本身作为全栈工程师的培训材料, 可以帮助读者掌握全栈开发所需要的基本知识。
 
-11/11/2016: 
+11/11/2016:
 
 一次提交: 到“webpack-demos” 项目中, https://github.com/ruanyf/webpack-demos, 这个项目中收录了很多webpack的简单demo。
 
