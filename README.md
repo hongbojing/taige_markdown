@@ -10,6 +10,7 @@ Taige Markdown
 
 3.抛砖引玉: 希望各位有心的读者能从这份小小的榜单中得到下一步开发之道的灵感。
 
+![total board](taige_image/img/1total.png)
 
 ### 第一名: sindresorhus
 ![sindresorhus](taige_image/img/2sindresorhus.png)
@@ -66,6 +67,8 @@ Taige Markdown
 
 11/06/2016:
 
+![book](taige_image/img/3book.png)
+
 两次提交: 到“ECMAScript 6入门”项目中, https://github.com/ruanyf/es6tutorial,  作者自己的介绍是: “《ECMAScript 6入门》是一本开源的JavaScript语言教程, 全面介绍ECMAScript 6新引入的语法特性。”
 一次提交: 到“jstutorial”项目中, https://github.com/ruanyf/jstutorial, 这是一本开源的js教程书, 主要关注点是客户端的设备方面的开发。
 
@@ -106,4 +109,7 @@ Taige Markdown
 
 另外, 上周进入榜单的25名同学中, 小编还想介绍一下一位上升幅度最大的开发者:
 samli6479
+
+![samli](taige_image/img/4samli.png)
+
 他在过去的两周时间里非常勤奋的学习网页编程开发, 建立了很多Repo, 在这里我们也希望这位开发者可以继续努力, 在网络编程开发的学习道路上继续精进。
