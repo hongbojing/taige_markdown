@@ -10,22 +10,19 @@ Taige Markdown
 
 3.抛砖引玉: 希望各位有心的读者能从这份小小的榜单中得到下一步开发之道的灵感。
 
+以上三个宗旨将随着接下来几次榜单的报道而分步完成, 也请各位读者持续关注我们太阁极客榜。
+
 ![total board](taige_image/img/1total.png)
 
 ### 第一名: [sindresorhus](https://github.com/sindresorhus)
 ![sindresorhus](taige_image/img/2sindresorhus.png)
-这是一位常年霸占榜单前三甲的传说级的大牛, 我们可以点开他的Github主页的Organization中, 看到他参与开发了许许多多的前端框架的开发, 那么, 这位大神级别的开发者在过去的一周中参与开发了什么呢:
+这是一位常年霸占榜单前三甲的传说级的大牛, 我们可以点开他的Github主页的Organization中, 看到他参与开发了许许多多的前端框架的开发, 那么, 接下来我们来看看他在过去的一周内都参与开发了哪些项目吧。
 
-11/06/2016:
+1. [“Refined－Github”](https://github.com/sindresorhus/refined-github), 项目的目的是简化你的Github的界面, 使用的主要技术有: Javascript和CSS。
 
-三次提交: 到自己的一个chrome插件的项目中, 这个项目叫做[“Refined－Github”](https://github.com/sindresorhus/refined-github), 项目的目的是简化你的Github的界面, 使用的主要技术有: Javascript和CSS。
-一次提交: 到[“Likes”](https://github.com/sindresorhus/likes)项目中, 在这个项目中他收录了自己在网上找到的有趣的材料。
-一次提交: 到[“rgb－hex－cli”](https://github.com/sindresorhus/rgb-hex-cli)项目中, 这个项目的目标是实现RGB到HEX的转化。
+2. [“rgb－hex－cli”](https://github.com/sindresorhus/rgb-hex-cli)项目中, 这个项目的目标是实现RGB到HEX的转化。
 
-11/07/2016:
-
-三次提交: 到[“p－lazy”](https://github.com/sindresorhus/p-lazy)项目中,
-项目的目的是建立一个“只有在被使用的时候才能触发”的promise。
+3. [“p－lazy”](https://github.com/sindresorhus/p-lazy)项目中, 项目的目的是建立一个“只有在被使用的时候才能触发”的promise。
 一次提交: 到[“electron－context－menu”](https://github.com/sindresorhus/electron-context-menu)的项目中,  目的是为[Electron](http://electron.atom.io/)的应用添加一个“环境菜单”, 方便用户进行“复制－剪切－粘贴”等操作。
 一次提交: 到[“p－defer”](https://github.com/sindresorhus/p-defer)项目中, 项目旨在于创建一个推迟触发的promise。
 
