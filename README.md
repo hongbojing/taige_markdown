@@ -59,36 +59,23 @@ Taige Markdown
 ### 第二名: [ruanyf](https://github.com/ruanyf)
 榜单上的第二名是在国内开发者中非常有名的阮一峰, 大家可以自行在百度或者知乎上搜索他的个人资料, 那么让我们来看看这位开发人员上周的成果吧。
 
-11/06/2016:
-
 ![book](taige_image/img/3book.png)
 
 这位开发者在过去一周主要从事的开发活动有：
 
-1. [“ECMAScript 6入门”](https://github.com/ruanyf/es6tutorial)项目,  作者自己的介绍是: “《ECMAScript 6入门》是一本开源的JavaScript语言教程, 全面介绍ECMAScript 6新引入的语法特性。”
-一次提交: 到[“jstutorial”](https://github.com/ruanyf/jstutorial)项目, 这是一本开源的js教程书, 主要关注点是客户端的设备方面的开发。
+* [“ECMAScript 6入门”](https://github.com/ruanyf/es6tutorial)项目,  作者自己的介绍是: “《ECMAScript 6入门》是一本开源的JavaScript语言教程, 全面介绍ECMAScript 6新引入的语法特性。”
 
-11/07/2016:
+* [“jstutorial”](https://github.com/ruanyf/jstutorial)项目, 这是一本开源的js教程书, 主要关注点是客户端的设备方面的开发。
 
-两次提交: 到[“react-babel-webpack-boilerplate”](https://github.com/ruanyf/react-babel-webpack-boilerplate)项目, 这是一个项目开发模板, 你可以这个模板为基础来开发自己的web应用。
-一次提交: 到[“Flux demo”](https://github.com/ruanyf/extremely-simple-flux-demo)项目,  这个项目的目的是帮助大家学习Flux的结构。
+* [“react-babel-webpack-boilerplate”](https://github.com/ruanyf/react-babel-webpack-boilerplate)项目, 这是一个项目开发模板, 你可以这个模板为基础来开发自己的web应用。
 
-11/08/2016:
+* [“Flux demo”](https://github.com/ruanyf/extremely-simple-flux-demo)项目,  这个项目的目的是帮助大家学习Flux的结构。
 
-一次提交: 到[“jstutorial”](https://github.com/ruanyf/jstutorial)项目, 这是一本开源的js教程书, 主要关注点是客户端的设备方面的开发。
+* [“jstutorial”](https://github.com/ruanyf/jstutorial)项目, 这是一本开源的js教程书, 主要关注点是客户端的设备方面的开发。
 
+* [“jstraining”](https://github.com/ruanyf/jstraining)项目, 项目本身作为全栈工程师的培训材料, 可以帮助读者掌握全栈开发所需要的基本知识。
 
-11/09/2016:
-
-同昨天。
-
-11/10/2016:
-
-一次提交: 到[“jstraining”](https://github.com/ruanyf/jstraining)项目, 项目本身作为全栈工程师的培训材料, 可以帮助读者掌握全栈开发所需要的基本知识。
-
-11/11/2016:
-
-一次提交: 到[“webpack-demos”](https://github.com/ruanyf/webpack-demos)项目, 这个项目中收录了很多webpack的简单demo。
+* [“webpack-demos”](https://github.com/ruanyf/webpack-demos)项目, 这个项目中收录了很多webpack的简单demo。
 
 
 ### 第三名: [KeranChen](https://github.com/KeranChen)
@@ -110,3 +97,7 @@ Taige Markdown
 ![samli](taige_image/img/4samli.png)
 
 他在过去的两周时间里非常勤奋的学习网页编程开发, 建立了很多Repo, 在这里我们也希望这位开发者可以继续努力, 在网络编程开发的学习道路上继续精进。
+
+### 结语：
+
+暂定以后的榜单也是像今天这样介绍前五名的极客开发者，然后再介绍一名提升幅度最大的同学，相信各位读者也都看到了，保持活跃度是一件很困难，很需要恒心的事情，愿各位“码运昌隆”，我们下期见。
